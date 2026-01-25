@@ -6,3 +6,4 @@ tensorflow-hub
 tensorflow-text
 matplotlib
 google-api-python-client
+tf-keras
