@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-tensorflow
+tensorflow==2.15.0
 tensorflow-hub
-tensorflow-text
+tensorflow-text==2.15.0
+tf-models-official
 matplotlib
 google-api-python-client
