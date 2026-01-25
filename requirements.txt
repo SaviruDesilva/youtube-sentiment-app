@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+tensorflow
+tensorflow-hub
+tensorflow-text
+matplotlib
+google-api-python-client
