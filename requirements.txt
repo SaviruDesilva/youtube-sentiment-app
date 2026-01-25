@@ -1,9 +1,14 @@
+# Core ML Stack (Matched versions for Python 3.11 compatibility)
+tensorflow==2.15.0
+tensorflow-text==2.15.0
+tensorflow-hub
+
+# Web App & Data Handling
 streamlit
 pandas
 numpy
-tensorflow
-tensorflow-hub
-tensorflow-text
 matplotlib
+
+# Integration Tools
 google-api-python-client
-tf-keras
+google-auth-oauthlib
