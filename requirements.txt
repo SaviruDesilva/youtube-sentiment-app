@@ -1,5 +1,5 @@
-tensorflow==2.15.0
-tensorflow-text==2.15.0
+tensorflow==2.16.2
+tensorflow-text==2.16.2
 tensorflow-hub==0.16.1
 streamlit
 pandas
