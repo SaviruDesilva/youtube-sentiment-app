@@ -18,7 +18,7 @@ st.set_page_config(page_title="YouTube Sentiment Analyzer", page_icon="📊", la
 
 # ==================== API KEY CONFIGURATION ====================
 
-YOUTUBE_API_KEY = "AIzaSyBgb71tS1-bhylJzZMX3wv2jsFLQwulGGA"
+YOUTUBE_API_KEY = "xxxxxxxxxxxxxxxxxxxxx"
 # ================================================================
 
 # Load model
